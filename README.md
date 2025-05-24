@@ -8,7 +8,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="assets/Logo-with-name-final2.png" alt="MultiMind SDK - Unified AI Development Toolkit Logo" width="320"/>
+  <img src="Logo-with-name-final2.png" alt="MultiMind SDK - Unified AI Development Toolkit Logo" width="320"/>
 </p>
 
 <h1 align="center">MultiMind SDK: Unified AI Development Toolkit</h1>
