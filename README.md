@@ -24,7 +24,7 @@
 
 <div align="center">
   <h2>🚧 Project Status: In Active Development 🚧</h2>
-  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors. Check our <a href="https://github.com/multimindlab/multimind-sdk/docs/TODO.md">TODO list</a> to see what's implemented and what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
+  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors. Check our <a href="https://github.com/multimindlab/multimind-sdk/tree/develop/docs/TODO.md">TODO list</a> to see what's implemented and what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
 </div>
 
 
@@ -42,7 +42,7 @@ Forget silos. While others focus on chaining, agents, or retrieval alone, **Mult
 - 🔐 Enterprise-ready: logging, compliance, GDPR, cost tracking
 - 🌍 Cloud + Edge deploy (Jetson, RPi, Offline mode)
 
-📑 Check out our [Strategic Roadmap](https://github.com/multimindlab/multimind-sdk/docs/roadmap.md) to see where we're headed!
+📑 Check out our [Strategic Roadmap](https://github.com/multimindlab/multimind-sdk/tree/develop/docs/roadmap.md) to see where we're headed!
 
 ### Key Benefits
 
