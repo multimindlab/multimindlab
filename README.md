@@ -24,7 +24,7 @@
 
 <div align="center">
   <h2>🚧 Project Status: In Active Development 🚧</h2>
-  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors. Check our <a href="docs/TODO.md">TODO list</a> to see what's implemented and what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
+  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors. Check our <a href="https://github.com/multimindlab/multimind-sdk/docs/TODO.md">TODO list</a> to see what's implemented and what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
 </div>
 
 
@@ -42,7 +42,7 @@ Forget silos. While others focus on chaining, agents, or retrieval alone, **Mult
 - 🔐 Enterprise-ready: logging, compliance, GDPR, cost tracking
 - 🌍 Cloud + Edge deploy (Jetson, RPi, Offline mode)
 
-📑 Check out our [Strategic Roadmap](docs/roadmap.md) to see where we're headed!
+📑 Check out our [Strategic Roadmap](https://github.com/multimindlab/multimind-sdk/docs/roadmap.md) to see where we're headed!
 
 ### Key Benefits
 
@@ -155,8 +155,8 @@ tuner.train(
 - [API Reference](https://github.com/multimindlabs/multimind-sdk/blob/develop/docs/api_reference/README.md) - Complete API documentation
 - [Examples](https://github.com/multimindlabs/multimind-sdk/blob/develop/examples/README.md) - Production-ready code examples
 - [Architecture](https://github.com/multimindlabs/multimind-sdk/blob/develop/docs/architecture.md) - Detailed system design
-- [Contributing Guide](CONTRIBUTING.md) - Join our development team
-- [Code of Conduct](CODE_OF_CONDUCT.md) - Community guidelines
+- [Contributing Guide](https://github.com/multimindlab/multimind-sdk/CONTRIBUTING.md) - Join our development team
+- [Code of Conduct](https://github.com/multimindlab/multimind-sdk/CODE_OF_CONDUCT.md) - Community guidelines
 - [Issue Tracker](https://github.com/multimind-dev/multimind-sdk/issues) - Report bugs or request features
 
 ### Local Documentation
@@ -170,19 +170,19 @@ npm start
 
 ## 🎓 Examples
 
-Explore our [examples directory](examples/) for:
+Explore our [examples directory](https://github.com/multimindlab/multimind-sdk/tree/develop/examples/) for:
 
-- [Basic RAG Usage](examples/rag_basic.py) - Simple RAG implementation
-- [Fine-Tuning](examples/fine_tuning.py) - Model adaptation examples
-- [Agent Development](examples/agent_basic.py) - Building AI agents
-- [Framework Integration](examples/langchain_integration.py) - Using with popular frameworks
+- [Basic RAG Usage](https://github.com/multimindlab/multimind-sdk/tree/develop/examples/rag_basic.py) - Simple RAG implementation
+- [Fine-Tuning](https://github.com/multimindlab/multimind-sdk/tree/develop/examples/fine_tuning.py) - Model adaptation examples
+- [Agent Development](https://github.com/multimindlab/multimind-sdk/tree/develop/examples/agent_basic.py) - Building AI agents
+- [Framework Integration](https://github.com/multimindlab/multimind-sdk/tree/develop/examples/langchain_integration.py) - Using with popular frameworks
 
 ## 🤝 Contributing
 
 We love your input! We want to make contributing to MultiMind SDK as easy and transparent as possible.
 
-- [Contributing Guide](CONTRIBUTING.md) - How to contribute
-- [Code of Conduct](CODE_OF_CONDUCT.md) - Community guidelines
+- [Contributing Guide](https://github.com/multimindlab/multimind-sdk/tree/develop/CONTRIBUTING.md) - How to contribute
+- [Code of Conduct](https://github.com/multimindlab/multimind-sdk/tree/develop/CODE_OF_CONDUCT.md) - Community guidelines
 - [Issue Tracker](https://github.com/multimind-dev/multimind-sdk/issues) - Report bugs or request features
 
 ### Development Setup
